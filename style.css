@@ -1,0 +1,62 @@
+.body-bg {
+    background: url(/img/bg-pattern.png) repeat, linear-gradient(to right, #dc2430,#7b4397);
+}
+
+.img--inner {
+    border-radius: 1%;
+    position: absolute;
+    left: 8%;
+    top: 10%;
+    width: 84%;
+}
+
+.img--inner2 {
+    border-radius: 1%;
+    position: absolute;
+    left: 8%;
+    top: 14%;
+    width: 84%;
+}
+
+.start a {
+    background-color: transparent;
+    border: solid .1rem #ffffff;
+    border-radius: 1rem;
+    color: #ffffff;
+    margin: 0 auto 3rem ;
+    padding: .5rem 3rem;
+    transition: 300s;
+}
+
+.start a:hover {
+    background-color: #ffff00 !important;
+}
+
+.text--size {
+    font-size: 5rem;
+    font-weight: 200;
+}
+
+.utf--icons {
+    font-size: 7rem;
+}
+
+.bg--image {
+    background-image: url(/img/bg-cta.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: .8;
+}
+
+.bg--black {
+    background-color: #000000;
+}
+
+.bg--tw {
+    background-color: #1da1f2;
+}
+
+.bg--fb {
+    background-color: #3b5998;
+}
